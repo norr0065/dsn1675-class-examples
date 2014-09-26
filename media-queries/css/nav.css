@@ -17,6 +17,12 @@ html {
     box-sizing: inherit;
 }
 
+.div{
+    display:block;
+    padding: 6rem;
+    background-color: #ccc;
+}
+
 .nav {
     margin: 0;
     padding: 0;
@@ -25,7 +31,7 @@ html {
 }
 
 .nav li {
-    border-top: 1px solid #666;
+    border-top: 1px solid #0074D9;
 }
 
 .nav a {
@@ -41,7 +47,7 @@ html {
     }
     .nav li{
         display:inline-block;
-        border: 0;;
+        border: 0;
     }
 }
 
